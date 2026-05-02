@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JOB": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
