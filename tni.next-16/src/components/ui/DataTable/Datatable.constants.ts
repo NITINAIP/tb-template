@@ -1,0 +1,10 @@
+export const ACTIONS = "actions";
+export const ACTIONS_MENU = "actionsMenu";
+export const CUSTOM_BUTTONS = "customButtons";
+export const ACTIVE = "active";
+export const HIDE_SORT_BUTTON = [ACTIONS, CUSTOM_BUTTONS];
+export const CHECKBOX = "checkbox";
+export const STATUS = "status";
+export const LINK = "link";
+export const CUSTOM_ELEMENT = "customElement";
+export type Order = "asc" | "desc";
