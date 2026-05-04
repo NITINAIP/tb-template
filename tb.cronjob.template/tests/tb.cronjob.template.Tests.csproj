@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Job\tb.cronjob.template.Job.csproj" />
+    <ProjectReference Include="..\src\Job\tb.cronjob.template.csproj" />
   </ItemGroup>
 
 </Project>
